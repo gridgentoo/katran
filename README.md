@@ -10,6 +10,9 @@
   </a>
 </p>
 
+## Код из оригинального репозитария facebook
+https://github.com/facebookincubator/katran
+
 Katran - это библиотека и [`BPF`](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) на C ++ для создания высокопроизводительной плоскости пересылки балансировки нагрузки уровня 4 [4 load balancing forwarding plane]. 
 Katran использует [`XDP infrastructure`](https://www.iovisor.org/technology/xdp) eвозможности ядра для обеспечения встроенной в ядро функции быстрой обработки пакетов.
 
