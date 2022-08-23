@@ -13,13 +13,13 @@
 Katran - это библиотека и [`BPF`](https://en.wikipedia.org/wiki/Berkeley_Packet_Filter) на C ++ для создания высокопроизводительной плоскости пересылки балансировки нагрузки уровня 4 [4 load balancing forwarding plane]. 
 Katran использует [`XDP infrastructure`](https://www.iovisor.org/technology/xdp) eвозможности ядра для обеспечения встроенной в ядро функции быстрой обработки пакетов.
 
-## Katran's key features
+## Ключевые особенности Katran
 
-1. Blazing fast (especially w/ XDP in driver mode).
-2. Performance scaling linearly with a number of NIC's RX queues.
+1. Невероятно быстрый[Blazing fast] (особенно с поддержкой XDP в driver mode Ядра Linux).
+2. Линейное масштабирование производительности с помощью нескольких очередей сетевого адаптера NIC's RX queues.
 3. RSS friendly encapsulation.
 
-See the detailed features' description below :
+Подробное описание функций смотрите ниже :
 
 ## Documentation's sections
 
